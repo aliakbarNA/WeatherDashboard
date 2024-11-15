@@ -1,0 +1,12 @@
+{
+    "weather": {
+      "title": "Weather Information",
+      "city": "City",
+      "search": "Search",
+      "temperature": "Temperature",
+      "status": "Status",
+      "humidity": "Humidity",
+      "wind_speed": "Wind Speed",
+      "error": "Error fetching weather data"
+    }
+  }
